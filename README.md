@@ -1,4 +1,6 @@
-﻿# pycaruna
+This is just a temporary fork that fixes a login issue. Go to https://github.com/Jalle19/pycaruna for the original fork, which will hopefully be fixed soon.
+
+# pycaruna
 
 Basic Python implementation for interfacing with Caruna's API. It supports only basic methods, 
 but enough to extract electricity usage data for further processing.
